@@ -4,6 +4,7 @@ A simple and responsive Login &amp; Registration System built using HTML, CSS, a
 
 This is a simple **Login and Registration system** built with **HTML, CSS, and JavaScript**.  
 It allows users to register, log in, and access a personalized dashboard.  
+![Login UI](https://github.com/username/login-system/blob/main/assets/login-ui.png?raw=true)
 
 ## 🚀 Features
 - **User Registration**

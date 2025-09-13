@@ -9,11 +9,11 @@ It allows users to register, log in, and access a personalized dashboard.
   - Collects full name, email, and password.
   - Validates password and confirm password.
   - Stores user details in `localStorage`.
-![image alt](https://friendly-pink-w0ooce3fqt.edgeone.app/Screenshot%202025-09-13%20at%207.00.53 PM.png)
+![image alt](https://lazy-red-lol8auxtiu.edgeone.app/Screenshot%202025-09-13%20at%207.01.05 PM.png)
 - **User Login**
   - Authenticates using stored credentials.
-  - Redirects to the dashboard upon successful login.
-![image alt](https://lazy-red-lol8auxtiu.edgeone.app/Screenshot%202025-09-13%20at%207.01.05 PM.png)
+  - Redirects to the dashboard upon successful login. 
+![image alt](https://friendly-pink-w0ooce3fqt.edgeone.app/Screenshot%202025-09-13%20at%207.00.53 PM.png)
 - **Dashboard**
   - Greets the logged-in user with their name.
   - Includes a logout button to clear the session.

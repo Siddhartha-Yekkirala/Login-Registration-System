@@ -63,10 +63,6 @@ project-folder/
 - Not secure for production (passwords are not hashed).
 - Meant for **learning/demo purposes only**.
 
-## 📸 Screenshots
-- **Login & Register Page**
-- **Dashboard with Welcome Message**
-
 ---
 
 👨‍💻 Developed for practice with **Front-End Web Development**.
